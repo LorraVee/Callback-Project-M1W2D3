@@ -5,8 +5,6 @@ element, index, and array itself. The function does not need to return any value
 
 Do not use the built in Array#forEach.
 
-// Collaborated with Christopher Hogan
-
 Examples:*/
 
 // // a is at index 0
@@ -37,3 +35,5 @@ myForEach(['a', 'b', 'c'], function (el, i) {
 
 /*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
 module.exports = myForEach;
+
+// Collaborated with Christopher Hogan 6/15/2022 Wednesday
